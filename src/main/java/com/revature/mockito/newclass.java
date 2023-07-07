@@ -1,5 +1,5 @@
 package com.revature.mockito;
 
-public interface example {
+public class newclass {
 
 }
